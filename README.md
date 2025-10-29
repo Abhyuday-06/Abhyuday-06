@@ -10,7 +10,10 @@ I love researching and solving problems in the field of AI. <br>
 
 ## GitHub Stats
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Abhyuday-06&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Abhyuday-06&show_icons=true&theme=nightowl&count_private=true)
+![](https://github-readme-streak-stats.demolab.com/?user=Abhyuday-06&theme=nightowl&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhyuday-06&layout=compact&theme=nightowl)
+
 
 ## 3D Contribution Graph
 
