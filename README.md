@@ -14,6 +14,4 @@ I love researching and solving problems in the field of AI. <br>
 
 ## 3D Contribution Graph
 
-<p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Abhyuday-06&theme=night-green" alt="3D Contribution Graph" />
-</p>
+![](./profile-3d-contrib/profile-night-green.svg)
