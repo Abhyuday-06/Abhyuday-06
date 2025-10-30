@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans+Code&size=26&pause=498&background=FFFFFF00&repeat=false&width=435&lines=Abhyuday-06's+GitHub+Profile)](https://git.io/typing-svg)
 
 I love researching and solving problems in the field of AI. <br>
-[Website]([https://github.com/Abhyuday-06](https://abhyuday-06.github.io/portfolio))<br>
+[Website](https://abhyuday-06.github.io/portfolio)<br>
 [LinkedIn](https://in.linkedin.com/in/abhyuday-vaish)<br>
 
 ## Tech Stack
